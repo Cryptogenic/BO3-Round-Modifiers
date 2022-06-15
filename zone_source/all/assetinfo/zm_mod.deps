@@ -1,0 +1,435 @@
+version,3421953,593
+scriptparsetree,scripts/zm/gametypes/_clientids.gsc
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\mods\roundchalwheel\scripts\zm\gametypes\_clientids.gsc,1655282526,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1654911525,
+scriptparsetree,scripts/zm/_zm_magicbox.gsc
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\mods\roundchalwheel\scripts\zm\_zm_magicbox.gsc,1629790984,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1654911525,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1654911545,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1654911532,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1654911565,
+scriptparsetree,scripts/zm/_zm_powerup_double_points.gsc
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\mods\roundchalwheel\scripts\zm\_zm_powerup_double_points.gsc,1630037948,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1654911525,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1654911545,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_powerups.gsh,1654911532,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1654911565,
+scriptparsetree,scripts/zm/_zm_powerup_fire_sale.gsc
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\mods\roundchalwheel\scripts\zm\_zm_powerup_fire_sale.gsc,1630038034,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1654911525,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1654911545,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_powerups.gsh,1654911532,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1654911565,
+scriptparsetree,scripts/zm/_zm_powerup_full_ammo.gsc
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\mods\roundchalwheel\scripts\zm\_zm_powerup_full_ammo.gsc,1630038042,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1654911525,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1654911545,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_powerups.gsh,1654911532,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1654911565,
+scriptparsetree,scripts/zm/_zm_powerup_nuke.gsc
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\mods\roundchalwheel\scripts\zm\_zm_powerup_nuke.gsc,1630038062,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1654911525,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1654911545,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_powerups.gsh,1654911532,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1654911565,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\ai\systems\gib.gsh,1654911468,
+scriptparsetree,scripts/zm/_zm_powerups.gsc
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\mods\roundchalwheel\scripts\zm\_zm_powerups.gsc,1655276202,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1654911525,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1654911545,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\ai\systems\gib.gsh,1654911468,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1654911532,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_powerups.gsh,1654911532,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1654911565,
+scriptparsetree,scripts/zm/_zm_pack_a_punch.gsc
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\mods\roundchalwheel\scripts\zm\_zm_pack_a_punch.gsc,1629524502,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1654911525,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1654911545,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1654911532,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1654911565,
+scriptparsetree,scripts/zm/_zm_utility.gsc
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\mods\roundchalwheel\scripts\zm\_zm_utility.gsc,1629519566,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1654911525,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\statstable_shared.gsh,1654911466,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1654911532,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1654911565,
+image,i_modifier_ammo_recall
+	gdt,image,i_modifier_ammo_recall,EC-71-E2-95-F5-E3-33-11-75-59-A8-52-ED-FA-02-89
+	gdt,light,i_modifier_ammo_recall,
+	gdt,emblem,i_modifier_ammo_recall,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\deffiles\image.awi,1654911176,32295aab,34ad1118,b8e6c9c4,45d460d8
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\deffiles\light.awi,1654911186,5da64c3c,92db2ade,6c36bab1,4d3fe1b9
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\deffiles\emblem.awi,1654911175,90d8528b,f191a8f1,d026de37,33338f38
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\ammo_recall.tiff,1654986505,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_ammo_recall_XDRV6S7F6BTBPBIZEJPVZ3OJOW.iwi,1654986534,
+techset,2d_blend#da7372ff
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_2d.hlsl_vs_J3F5XELQPC2TQ5QQU2N2Q7BZNS,1654911544,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_2d.hlsl_vs_main_FOZLO2FWTG6BEPGOBD6XIS2W2Y,1654911490,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_2d.hlsl_ps_CFIWBTSMQA3CZ2ZH233P5S3Q7V,1654911544,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_2d.hlsl_ps_main_FOZLO2FWTG6BEPGOBD6XIS2W2Y,1654911451,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_2d.hlsl_vs_XVZU5N2SY6E7BB4VRBLIW3V6VC,1654911544,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_2d.hlsl_ps_YRNN4PQJ77QUG4644PYWIUIHIH,1654911544,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_2d.hlsl_vs_UQMHKUC4DKTNPEJ2X7TXEIJ5NQ,1654911544,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_2d.hlsl_ps_RLQW4AF5NRQXSOGTE7H37Z727M,1654911544,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_2d.hlsl_vs_BWDQTP4CBBQ5J5EAE7OOLR3R3N,1654911402,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_2d.hlsl_vs_main_TQPJOZOTAUKXBXVHO342UNJWZX,1654911488,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_2d.hlsl_ps_GMNGYZFNWNUMOTCRICKTJJ6Y6U,1654911389,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_2d.hlsl_ps_main_TQPJOZOTAUKXBXVHO342UNJWZX,1654911455,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_2d.hlsl_vs_MVLVHPADFML4ZUHBZBJMLX3W7S,1654911544,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_2d.hlsl_ps_UCX3GTW7VUVTRLJOOFMSTK4W4W,1654911544,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\2d\2d_blend.techsetdef,1654911468,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\2d\2d_base.techsetdef,1654911444,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\state.techsetdef,1654911536,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\renderFlags.techsetdef,1654911470,
+material,modifier_ammo_recall
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_ammo_recall
+	gdt,material,modifier_ammo_recall,1F-5A-AE-75-1A-FB-B4-FE-4E-3C-43-36-64-DC-3B-FC
+	gdt,image,i_modifier_ammo_recall,EC-71-E2-95-F5-E3-33-11-75-59-A8-52-ED-FA-02-89
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\deffiles\material.awi,1654911177,ae7c4594,555e9e83,96220972,356cb052
+image,i_modifier_bad_news_bear
+	gdt,image,i_modifier_bad_news_bear,91-AE-A4-D8-C5-43-4A-85-99-0C-7E-F1-2D-59-F2-C6
+	gdt,light,i_modifier_bad_news_bear,
+	gdt,emblem,i_modifier_bad_news_bear,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\bad_news_bear.tiff,1654980598,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_bad_news_bear_ZKSIC4QBXXVC6JOTTYTDZM5B52.iwi,1654990494,
+material,modifier_bad_news_bear
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_bad_news_bear
+	gdt,material,modifier_bad_news_bear,F2-B7-1C-E2-09-AF-89-A2-CB-BA-48-0C-D3-8B-4E-C0
+	gdt,image,i_modifier_bad_news_bear,91-AE-A4-D8-C5-43-4A-85-99-0C-7E-F1-2D-59-F2-C6
+image,i_modifier_bargainer
+	gdt,image,i_modifier_bargainer,FF-A1-28-09-FC-F2-F4-23-9A-B8-8D-F0-63-44-2E-91
+	gdt,light,i_modifier_bargainer,
+	gdt,emblem,i_modifier_bargainer,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\bargainer.tiff,1654980697,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_bargainer_L6OHRYN7L55HIWUGULB4EOBONN.iwi,1654990494,
+material,modifier_bargainer
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_bargainer
+	gdt,material,modifier_bargainer,7A-36-88-1C-9E-E3-8A-13-58-51-A7-C3-D8-7F-A6-38
+	gdt,image,i_modifier_bargainer,FF-A1-28-09-FC-F2-F4-23-9A-B8-8D-F0-63-44-2E-91
+image,i_modifier_blackened
+	gdt,image,i_modifier_blackened,A8-FB-03-5C-71-91-11-82-D5-D6-9E-40-0E-A0-1C-82
+	gdt,light,i_modifier_blackened,
+	gdt,emblem,i_modifier_blackened,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\blackened.tiff,1654980511,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_blackened_7ILUUUE5LPHQAN7SG7QZM7INIF.iwi,1654990494,
+material,modifier_blackened
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_blackened
+	gdt,material,modifier_blackened,EC-04-50-2C-4E-51-14-F9-E2-79-F1-BB-84-75-74-E7
+	gdt,image,i_modifier_blackened,A8-FB-03-5C-71-91-11-82-D5-D6-9E-40-0E-A0-1C-82
+image,i_modifier_box_suppression
+	gdt,image,i_modifier_box_suppression,60-9E-4F-D6-CF-97-26-0B-52-AA-D5-31-A8-05-3D-F4
+	gdt,light,i_modifier_box_suppression,
+	gdt,emblem,i_modifier_box_suppression,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\box_suppression.tiff,1654980704,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_box_suppression_UM25AVDPFSO5RIEPCEATWG474E.iwi,1654990495,
+material,modifier_box_suppression
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_box_suppression
+	gdt,material,modifier_box_suppression,57-77-67-5D-55-4E-46-4F-32-4B-FA-B9-81-83-19-70
+	gdt,image,i_modifier_box_suppression,60-9E-4F-D6-CF-97-26-0B-52-AA-D5-31-A8-05-3D-F4
+image,i_modifier_connoisseur
+	gdt,image,i_modifier_connoisseur,19-57-99-80-44-4A-A5-BF-F9-FB-CD-94-49-E0-B2-88
+	gdt,light,i_modifier_connoisseur,
+	gdt,emblem,i_modifier_connoisseur,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\connoisseur.tiff,1654980859,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_connoisseur_TBO7N4BZCWTPE7GGGBC4SD3O7Y.iwi,1654990495,
+material,modifier_connoisseur
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_connoisseur
+	gdt,material,modifier_connoisseur,5B-61-03-F6-4F-CD-53-C8-5F-1F-73-55-E1-25-8F-2A
+	gdt,image,i_modifier_connoisseur,19-57-99-80-44-4A-A5-BF-F9-FB-CD-94-49-E0-B2-88
+image,i_modifier_dropzone
+	gdt,image,i_modifier_dropzone,EA-6F-79-F3-88-D8-DC-28-AA-52-47-D4-C3-D5-AB-9D
+	gdt,light,i_modifier_dropzone,
+	gdt,emblem,i_modifier_dropzone,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\dropzone.tiff,1654980868,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_dropzone_AHNNPANOGNNPYM2TOI6B7YBWVI.iwi,1654990495,
+material,modifier_dropzone
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_dropzone
+	gdt,material,modifier_dropzone,D7-94-1A-69-85-AC-85-3F-B3-34-75-13-D5-99-3F-70
+	gdt,image,i_modifier_dropzone,EA-6F-79-F3-88-D8-DC-28-AA-52-47-D4-C3-D5-AB-9D
+image,i_modifier_dud
+	gdt,image,i_modifier_dud,55-91-AD-7F-70-98-B2-48-52-3F-4E-F0-55-EA-84-08
+	gdt,light,i_modifier_dud,
+	gdt,emblem,i_modifier_dud,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\dud.tiff,1654980575,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_dud_KYI3BFQMIXUIVUNJJ6O2YNGE6G.iwi,1654990495,
+material,modifier_dud
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_dud
+	gdt,material,modifier_dud,C3-1B-D0-D4-B9-CC-C0-78-D0-AC-D6-CC-39-F9-95-EF
+	gdt,image,i_modifier_dud,55-91-AD-7F-70-98-B2-48-52-3F-4E-F0-55-EA-84-08
+image,i_modifier_fined
+	gdt,image,i_modifier_fined,57-C6-2E-A5-01-F4-8D-4D-1A-9B-8D-C5-38-13-24-E6
+	gdt,light,i_modifier_fined,
+	gdt,emblem,i_modifier_fined,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\fined.tiff,1654980636,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_fined_5GN7GVXHUWJB7H63N4BAZU6V6C.iwi,1654990495,
+material,modifier_fined
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_fined
+	gdt,material,modifier_fined,FE-54-95-67-F1-75-FA-E2-D6-46-D4-87-CA-65-04-BD
+	gdt,image,i_modifier_fined,57-C6-2E-A5-01-F4-8D-4D-1A-9B-8D-C5-38-13-24-E6
+image,i_modifier_gum_shortage
+	gdt,image,i_modifier_gum_shortage,D2-92-07-24-87-2B-9A-D0-4B-93-08-7E-7F-BF-32-51
+	gdt,light,i_modifier_gum_shortage,
+	gdt,emblem,i_modifier_gum_shortage,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\gum_shortage.tiff,1654980608,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_gum_shortage_3VNO4ZMJGHTYOWDMOJAXESGAWR.iwi,1654990496,
+material,modifier_gum_shortage
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_gum_shortage
+	gdt,material,modifier_gum_shortage,B0-40-1A-72-D3-82-5F-A5-A1-45-4D-25-95-01-D0-35
+	gdt,image,i_modifier_gum_shortage,D2-92-07-24-87-2B-9A-D0-4B-93-08-7E-7F-BF-32-51
+image,i_modifier_halfway_there
+	gdt,image,i_modifier_halfway_there,7F-A4-4D-54-D3-21-4E-A6-C6-72-CB-FA-D4-2E-E5-D3
+	gdt,light,i_modifier_halfway_there,
+	gdt,emblem,i_modifier_halfway_there,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\halfway_there.tiff,1654980688,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_halfway_there_4CHZGAZ7KYH3AZYPQHIXQ4M34U.iwi,1654990496,
+material,modifier_halfway_there
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_halfway_there
+	gdt,material,modifier_halfway_there,4D-BB-6C-87-73-20-03-29-4B-87-C7-DC-B7-48-95-93
+	gdt,image,i_modifier_halfway_there,7F-A4-4D-54-D3-21-4E-A6-C6-72-CB-FA-D4-2E-E5-D3
+image,i_modifier_heavy
+	gdt,image,i_modifier_heavy,2A-BD-09-B4-2E-C3-07-05-45-64-B8-DD-41-FB-CB-15
+	gdt,light,i_modifier_heavy,
+	gdt,emblem,i_modifier_heavy,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\heavy.tiff,1654980627,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_heavy_G4IJS6X6EA4TA3CGZ26URVVY5I.iwi,1654990496,
+material,modifier_heavy
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_heavy
+	gdt,material,modifier_heavy,26-E3-46-2C-CA-CC-B4-AF-2A-25-9B-57-5A-C7-5E-CD
+	gdt,image,i_modifier_heavy,2A-BD-09-B4-2E-C3-07-05-45-64-B8-DD-41-FB-CB-15
+image,i_modifier_hunter
+	gdt,image,i_modifier_hunter,7D-DB-31-36-7E-1C-08-75-12-ED-56-F4-66-19-F0-A5
+	gdt,light,i_modifier_hunter,
+	gdt,emblem,i_modifier_hunter,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\hunter.tiff,1654980540,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_hunter_DTDROOFSPPVFDCM7WJSKSHRFVD.iwi,1654990496,
+material,modifier_hunter
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_hunter
+	gdt,material,modifier_hunter,5E-9F-11-58-9A-6D-56-E2-B0-E9-55-E8-51-D4-FF-1D
+	gdt,image,i_modifier_hunter,7D-DB-31-36-7E-1C-08-75-12-ED-56-F4-66-19-F0-A5
+image,i_modifier_immortal
+	gdt,image,i_modifier_immortal,8E-80-18-5C-94-6C-62-50-F1-5C-D9-2C-F5-ED-BD-42
+	gdt,light,i_modifier_immortal,
+	gdt,emblem,i_modifier_immortal,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\immortal.tiff,1654980874,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_immortal_KRBEU6IXFZ5AFL64LERENP6B6J.iwi,1654990496,
+material,modifier_immortal
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_immortal
+	gdt,material,modifier_immortal,B6-69-63-6F-A0-E3-A9-7F-94-60-10-11-55-E9-AE-7A
+	gdt,image,i_modifier_immortal,8E-80-18-5C-94-6C-62-50-F1-5C-D9-2C-F5-ED-BD-42
+image,i_modifier_joker
+	gdt,image,i_modifier_joker,8A-FA-37-55-D6-13-49-D1-F1-9C-90-B0-B4-ED-39-B0
+	gdt,light,i_modifier_joker,
+	gdt,emblem,i_modifier_joker,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\joker.tiff,1654980670,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_joker_VZ6HL6NGTMHDZIOLB4IHB4ZJZX.iwi,1654990497,
+material,modifier_joker
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_joker
+	gdt,material,modifier_joker,36-F1-0F-3C-3A-79-CF-61-9C-DB-D8-44-A1-E1-84-C8
+	gdt,image,i_modifier_joker,8A-FA-37-55-D6-13-49-D1-F1-9C-90-B0-B4-ED-39-B0
+image,i_modifier_juggernaughts
+	gdt,image,i_modifier_juggernaughts,80-0B-54-C9-59-50-87-B0-61-C9-22-70-71-D8-C7-69
+	gdt,light,i_modifier_juggernaughts,
+	gdt,emblem,i_modifier_juggernaughts,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\juggernaughts.tiff,1654980547,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_juggernaughts_ZYFCT3BP2TTP6XU4B2TUACI3IV.iwi,1654990497,
+material,modifier_juggernaughts
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_juggernaughts
+	gdt,material,modifier_juggernaughts,EB-04-46-CF-05-FB-9D-2A-A3-F1-2C-54-F6-6B-FD-DD
+	gdt,image,i_modifier_juggernaughts,80-0B-54-C9-59-50-87-B0-61-C9-22-70-71-D8-C7-69
+image,i_modifier_lightfoot
+	gdt,image,i_modifier_lightfoot,77-0D-B6-EE-5A-8C-F4-C6-76-BC-7A-EE-B5-0D-0A-BD
+	gdt,light,i_modifier_lightfoot,
+	gdt,emblem,i_modifier_lightfoot,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\lightfoot.tiff,1654980678,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_lightfoot_GCJIY44LZI7WSGBXKMWPRLK4KC.iwi,1654990497,
+material,modifier_lightfoot
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_lightfoot
+	gdt,material,modifier_lightfoot,D0-BC-35-F4-9B-5C-77-99-E2-A4-C8-75-35-9A-79-EB
+	gdt,image,i_modifier_lightfoot,77-0D-B6-EE-5A-8C-F4-C6-76-BC-7A-EE-B5-0D-0A-BD
+image,i_modifier_low_charge
+	gdt,image,i_modifier_low_charge,18-34-9D-09-22-38-DC-AF-04-F4-1D-59-05-50-3E-28
+	gdt,light,i_modifier_low_charge,
+	gdt,emblem,i_modifier_low_charge,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\low_charge.tiff,1654980584,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_low_charge_2SPSZ5WDRNBHZL7DCK54RCVI5L.iwi,1654990497,
+material,modifier_low_charge
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_low_charge
+	gdt,material,modifier_low_charge,74-01-4B-AD-86-6C-91-40-0A-21-82-4B-58-17-0D-39
+	gdt,image,i_modifier_low_charge,18-34-9D-09-22-38-DC-AF-04-F4-1D-59-05-50-3E-28
+image,i_modifier_lucky
+	gdt,image,i_modifier_lucky,0C-4C-06-42-4A-4D-91-F0-90-B3-0A-5F-A6-D7-8E-92
+	gdt,light,i_modifier_lucky,
+	gdt,emblem,i_modifier_lucky,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\lucky.tiff,1654980533,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_lucky_2CFSCPZ7TA5F3D6TUKENQNOCOC.iwi,1654990498,
+material,modifier_lucky
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_lucky
+	gdt,material,modifier_lucky,AD-F1-26-F5-89-1D-DD-8C-77-72-5D-08-82-93-10-8A
+	gdt,image,i_modifier_lucky,0C-4C-06-42-4A-4D-91-F0-90-B3-0A-5F-A6-D7-8E-92
+image,i_modifier_out_of_order
+	gdt,image,i_modifier_out_of_order,1E-D9-F4-C0-5D-55-C6-C0-57-5E-AC-A7-43-BB-BB-B8
+	gdt,light,i_modifier_out_of_order,
+	gdt,emblem,i_modifier_out_of_order,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\out_of_order.tiff,1654980644,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_out_of_order_6KCQE4H55Q3N4DVP26DMYHXNX4.iwi,1654990498,
+material,modifier_out_of_order
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_out_of_order
+	gdt,material,modifier_out_of_order,2B-9A-99-1F-FD-4B-06-AA-C1-90-68-AB-24-EC-EB-4E
+	gdt,image,i_modifier_out_of_order,1E-D9-F4-C0-5D-55-C6-C0-57-5E-AC-A7-43-BB-BB-B8
+image,i_modifier_perkalicious_gift
+	gdt,image,i_modifier_perkalicious_gift,DA-BD-6D-2E-44-D2-5F-1E-B2-6E-AA-91-FC-43-35-23
+	gdt,light,i_modifier_perkalicious_gift,
+	gdt,emblem,i_modifier_perkalicious_gift,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\perkalicious_gift.tiff,1654980880,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_perkalicious_gift_2M2235GKNMQQC2COFGJIT2757D.iwi,1654990498,
+material,modifier_perkalicious_gift
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_perkalicious_gift
+	gdt,material,modifier_perkalicious_gift,E5-DB-FA-E3-9B-A7-CC-83-33-56-CE-9E-49-58-C4-A4
+	gdt,image,i_modifier_perkalicious_gift,DA-BD-6D-2E-44-D2-5F-1E-B2-6E-AA-91-FC-43-35-23
+image,i_modifier_probation
+	gdt,image,i_modifier_probation,69-22-C9-4F-F3-A6-85-B1-15-38-55-87-83-05-32-CE
+	gdt,light,i_modifier_probation,
+	gdt,emblem,i_modifier_probation,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\probation.tiff,1654980617,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_probation_ZGCY6UK545L63P345TCRPDAU43.iwi,1654990498,
+material,modifier_probation
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_probation
+	gdt,material,modifier_probation,F0-00-60-30-CA-BB-EE-CD-32-E8-5C-B7-EF-03-09-82
+	gdt,image,i_modifier_probation,69-22-C9-4F-F3-A6-85-B1-15-38-55-87-83-05-32-CE
+image,i_modifier_raining_bullets
+	gdt,image,i_modifier_raining_bullets,89-4D-F9-FD-E7-B8-C6-D0-18-7E-B3-08-0B-EC-A0-D2
+	gdt,light,i_modifier_raining_bullets,
+	gdt,emblem,i_modifier_raining_bullets,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\raining_bullets.tiff,1654980502,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_raining_bullets_4JIQKTG4XMNIEAEMPTCQ24MY4T.iwi,1654990498,
+material,modifier_raining_bullets
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_raining_bullets
+	gdt,material,modifier_raining_bullets,2D-FD-F6-4E-75-EE-9D-A3-15-AC-D1-75-CE-39-F0-98
+	gdt,image,i_modifier_raining_bullets,89-4D-F9-FD-E7-B8-C6-D0-18-7E-B3-08-0B-EC-A0-D2
+image,i_modifier_rebate
+	gdt,image,i_modifier_rebate,0D-46-DB-13-A4-65-F0-34-79-75-26-0D-AA-E4-1B-09
+	gdt,light,i_modifier_rebate,
+	gdt,emblem,i_modifier_rebate,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\rebate.tiff,1654980520,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_rebate_XIYJIJTJONTHR756Y64EYTKM66.iwi,1654990499,
+material,modifier_rebate
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_rebate
+	gdt,material,modifier_rebate,D0-67-03-6B-05-9F-08-20-80-E3-67-32-9D-63-55-13
+	gdt,image,i_modifier_rebate,0D-46-DB-13-A4-65-F0-34-79-75-26-0D-AA-E4-1B-09
+image,i_modifier_sky_high
+	gdt,image,i_modifier_sky_high,38-97-B7-76-E5-76-1B-F6-25-05-FF-9C-BA-F5-29-2C
+	gdt,light,i_modifier_sky_high,
+	gdt,emblem,i_modifier_sky_high,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\sky_high.tiff,1654980556,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_sky_high_KL7QQA64NWIYEU673MDI66CRK7.iwi,1654990499,
+material,modifier_sky_high
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_sky_high
+	gdt,material,modifier_sky_high,2B-49-1F-89-AE-8C-9D-0F-06-45-FC-43-31-08-6D-35
+	gdt,image,i_modifier_sky_high,38-97-B7-76-E5-76-1B-F6-25-05-FF-9C-BA-F5-29-2C
+image,i_modifier_slaughterhouse
+	gdt,image,i_modifier_slaughterhouse,BB-19-7F-37-19-41-DC-12-7A-90-57-9C-CA-CA-B9-24
+	gdt,light,i_modifier_slaughterhouse,
+	gdt,emblem,i_modifier_slaughterhouse,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\slaughterhouse.tiff,1654980912,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_slaughterhouse_PEBZJBGZHXOCVU7K2DJ3L6HSXW.iwi,1654990499,
+material,modifier_slaughterhouse
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_slaughterhouse
+	gdt,material,modifier_slaughterhouse,73-71-54-A6-E8-D8-96-B1-87-C7-26-E9-82-1D-49-84
+	gdt,image,i_modifier_slaughterhouse,BB-19-7F-37-19-41-DC-12-7A-90-57-9C-CA-CA-B9-24
+image,i_modifier_sober
+	gdt,image,i_modifier_sober,C4-2F-3D-FC-DE-98-61-FB-F7-72-0B-C3-CC-E6-E8-B7
+	gdt,light,i_modifier_sober,
+	gdt,emblem,i_modifier_sober,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\sober.tiff,1654980567,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_sober_3CBEN7U2K67E7FNJBUW5XL3I7Z.iwi,1654990499,
+material,modifier_sober
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_sober
+	gdt,material,modifier_sober,23-85-AC-97-04-05-81-DE-A7-A1-3A-DA-47-DB-9F-8E
+	gdt,image,i_modifier_sober,C4-2F-3D-FC-DE-98-61-FB-F7-72-0B-C3-CC-E6-E8-B7
+image,i_modifier_supercharged_grenades
+	gdt,image,i_modifier_supercharged_grenades,DF-C0-97-A6-E2-F1-9C-E9-63-9B-8B-C5-B8-1C-8C-AB
+	gdt,light,i_modifier_supercharged_grenades,
+	gdt,emblem,i_modifier_supercharged_grenades,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\supercharged_grenades.tiff,1654980889,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_supercharged_grenades_SJNDBWYERCZB7E2CJZXU6NBFZ3.iwi,1654990500,
+material,modifier_supercharged_grenades
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_supercharged_grenades
+	gdt,material,modifier_supercharged_grenades,33-09-6F-81-34-1A-A8-1C-6C-C6-04-C7-39-FD-02-AE
+	gdt,image,i_modifier_supercharged_grenades,DF-C0-97-A6-E2-F1-9C-E9-63-9B-8B-C5-B8-1C-8C-AB
+image,i_modifier_thirsty
+	gdt,image,i_modifier_thirsty,56-57-8E-75-71-A1-67-1A-D3-E1-B4-39-2E-91-63-73
+	gdt,light,i_modifier_thirsty,
+	gdt,emblem,i_modifier_thirsty,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\thirsty.tiff,1654980904,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_thirsty_3XFY5M5UQMS44M5HWV7LIOX7XZ.iwi,1654990500,
+material,modifier_thirsty
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_thirsty
+	gdt,material,modifier_thirsty,4B-97-F7-0E-E0-E4-7F-F0-13-70-29-D6-68-ED-66-BB
+	gdt,image,i_modifier_thirsty,56-57-8E-75-71-A1-67-1A-D3-E1-B4-39-2E-91-63-73
+image,i_modifier_threes_a_party
+	gdt,image,i_modifier_threes_a_party,09-99-54-17-E0-F2-74-4D-6D-97-A5-D2-CA-FE-5C-9B
+	gdt,light,i_modifier_threes_a_party,
+	gdt,emblem,i_modifier_threes_a_party,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\threes_a_party.tiff,1654980896,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_threes_a_party_N63JYLD4XWNUYEVPH5IYINX3XB.iwi,1654990500,
+material,modifier_threes_a_party
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_threes_a_party
+	gdt,material,modifier_threes_a_party,4A-3E-B3-75-B8-DF-81-29-7E-FB-52-C6-C0-CF-20-E2
+	gdt,image,i_modifier_threes_a_party,09-99-54-17-E0-F2-74-4D-6D-97-A5-D2-CA-FE-5C-9B
+image,i_modifier_unworthy
+	gdt,image,i_modifier_unworthy,EF-CB-55-7E-9A-5C-E6-F1-B1-A6-4D-1B-BC-59-5A-88
+	gdt,light,i_modifier_unworthy,
+	gdt,emblem,i_modifier_unworthy,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\unworthy.tiff,1654980654,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_unworthy_ABLS6JKNTYT5HLVK42ZBHIKS2K.iwi,1654990500,
+material,modifier_unworthy
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_unworthy
+	gdt,material,modifier_unworthy,DD-3C-47-9D-88-A7-47-23-3D-38-C6-57-74-CE-F1-43
+	gdt,image,i_modifier_unworthy,EF-CB-55-7E-9A-5C-E6-F1-B1-A6-4D-1B-BC-59-5A-88
+image,i_modifier_weapon_locked
+	gdt,image,i_modifier_weapon_locked,E7-9A-D8-6C-34-83-49-1A-AF-E1-99-AB-25-55-9A-57
+	gdt,light,i_modifier_weapon_locked,
+	gdt,emblem,i_modifier_weapon_locked,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\custom\roundchalwheel\weapon_locked.tiff,1654980591,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_modifier_weapon_locked_L3EGTZ27H65KJEBVK7EY3VHC73.iwi,1654990500,
+material,modifier_weapon_locked
+	asset,techset,2d_blend#da7372ff
+	asset,image,i_modifier_weapon_locked
+	gdt,material,modifier_weapon_locked,8B-DC-FB-E3-B1-79-BE-30-CA-4C-C3-E8-71-90-39-15
+	gdt,image,i_modifier_weapon_locked,E7-9A-D8-6C-34-83-49-1A-AF-E1-99-AB-25-55-9A-57
+texturecombo,zm_mod
+assetlist,zm_mod
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1654911455,
+	file,G:\Steam\steamapps\common\Call of Duty Black Ops III\mods\roundchalwheel\zone_source\zm_mod.zone,1654990547,d0bd820d,24fc143c,56ae264b,cc9a7e39
+errorcount,0
